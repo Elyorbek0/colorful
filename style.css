@@ -1,0 +1,19 @@
+.box{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: hotpink;
+    text-align: center;
+    margin-top: 100px;
+    border: 20px;
+}
+
+
+
+.btn{
+    margin-top: 80px;
+    padding: 20px 50px;
+    background-color: fuchsia;
+    border: none;
+    border-radius: 20px;
+}
